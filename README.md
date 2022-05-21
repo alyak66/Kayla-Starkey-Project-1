@@ -34,4 +34,6 @@ THEN I find a concise, descriptive title
 
 ## Finsihed Product
 
-The following link shows the finished product: [Kayla-Starkey-Project-1](https://alyak66.github.io/Kayla-Starkey-Project-1/)
+Link to finished page: https://alyak66.github.io/Kayla-Starkey-Project-1/
+
+Link to Github Repository: https://github.com/alyak66/Kayla-Starkey-Project-1
