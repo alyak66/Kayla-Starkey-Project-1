@@ -27,6 +27,11 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Mock up 
+
+![image](https://user-images.githubusercontent.com/105318871/169665381-5a458a45-5000-4729-a065-e39afb11e82e.png)
+
+
 ## Finsihed Product
 
 The following link shows the finished product: [Kayla-Starkey-Project-1](https://alyak66.github.io/Kayla-Starkey-Project-1/)
