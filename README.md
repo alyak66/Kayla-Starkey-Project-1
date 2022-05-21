@@ -27,6 +27,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Mock-Up
+## Finsihed Product
 
-The following image shows the web application's appearance and functionality:
+The following link shows the finished product: [Kayla-Starkey-Project-1](https://alyak66.github.io/Kayla-Starkey-Project-1/)
